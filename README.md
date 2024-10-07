@@ -1,4 +1,4 @@
-# Atliq-Sales-Analytics
+# Atliq-Sales & Finance-Analytics
 
 ## Sales Report :
 
